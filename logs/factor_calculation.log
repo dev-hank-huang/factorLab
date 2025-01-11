@@ -1,0 +1,721 @@
+2024-12-17 21:15:04,789 - ParallelFactorCalculator - INFO - Optimized process count: 21
+2024-12-17 21:15:04,791 - ParallelFactorCalculator - INFO - Starting calculation for 2 factors...
+2024-12-17 21:15:07,068 - ParallelFactorCalculator - INFO - Processing factor: factor1
+2024-12-17 21:15:07,133 - ParallelFactorCalculator - INFO - Processing factor: factor2
+2024-12-17 21:16:48,311 - ParallelFactorCalculator - INFO - Optimized process count: 19
+2024-12-17 21:16:48,313 - ParallelFactorCalculator - INFO - Starting calculation for 31 factors...
+2024-12-17 21:16:50,607 - ParallelFactorCalculator - INFO - Processing factor: ALFM
+2024-12-17 21:16:50,666 - ParallelFactorCalculator - INFO - Processing factor: APEF
+2024-12-17 21:16:50,745 - ParallelFactorCalculator - INFO - Processing factor: ARTF
+2024-12-17 21:17:07,428 - ParallelFactorCalculator - INFO - Processing factor: CIDF
+2024-12-17 21:17:07,450 - ParallelFactorCalculator - INFO - Processing factor: DCPF
+2024-12-17 21:17:07,730 - ParallelFactorCalculator - INFO - Processing factor: DVMF
+2024-12-17 21:17:11,135 - ParallelFactorCalculator - INFO - Processing factor: DVSF
+2024-12-17 21:17:11,135 - ParallelFactorCalculator - INFO - Processing factor: LDDF
+2024-12-17 21:17:11,271 - ParallelFactorCalculator - INFO - Processing factor: LFM
+2024-12-17 21:17:27,721 - ParallelFactorCalculator - INFO - Processing factor: LWM
+2024-12-17 21:17:28,010 - ParallelFactorCalculator - INFO - Processing factor: MIMF
+2024-12-17 21:17:28,261 - ParallelFactorCalculator - INFO - Processing factor: MIRF
+2024-12-17 21:17:31,710 - ParallelFactorCalculator - INFO - Processing factor: MTV
+2024-12-17 21:17:31,864 - ParallelFactorCalculator - INFO - Processing factor: MVIF
+2024-12-17 21:17:48,571 - ParallelFactorCalculator - INFO - Processing factor: MVTF
+2024-12-17 21:17:48,796 - ParallelFactorCalculator - INFO - Processing factor: PCVM
+2024-12-17 21:17:52,461 - ParallelFactorCalculator - INFO - Processing factor: TIRPF
+2024-12-17 21:17:52,603 - ParallelFactorCalculator - INFO - Processing factor: VACF
+2024-12-17 21:18:08,890 - ParallelFactorCalculator - INFO - Processing factor: VAPVF
+2024-12-17 21:18:11,299 - ParallelFactorCalculator - INFO - Processing factor: VRACF
+2024-12-17 21:18:31,851 - ParallelFactorCalculator - INFO - Processing factor: VSTF
+2024-12-17 21:18:52,482 - ParallelFactorCalculator - INFO - Processing factor: PDEF
+2024-12-17 21:19:13,026 - ParallelFactorCalculator - INFO - Processing factor: IMVF
+2024-12-17 21:19:31,096 - ParallelFactorCalculator - INFO - Processing factor: RLTF
+2024-12-17 21:19:35,241 - ParallelFactorCalculator - INFO - Processing factor: DRAP
+2024-12-17 21:19:53,971 - ParallelFactorCalculator - INFO - Processing factor: NIFD
+2024-12-17 21:20:15,061 - ParallelFactorCalculator - INFO - Processing factor: CPD
+2024-12-17 21:20:33,583 - ParallelFactorCalculator - INFO - Processing factor: RME
+2024-12-17 21:20:35,845 - ParallelFactorCalculator - INFO - Processing factor: VRAM
+2024-12-17 21:20:53,995 - ParallelFactorCalculator - INFO - Processing factor: LFHP
+2024-12-17 21:21:14,953 - ParallelFactorCalculator - INFO - Processing factor: AVMO
+2024-12-17 21:35:00,071 - ParallelFactorCalculator - INFO - Optimized process count: 22
+2024-12-17 21:35:00,072 - ParallelFactorCalculator - INFO - Starting calculation for 31 factors...
+2024-12-17 21:35:00,146 - ParallelFactorCalculator - ERROR - Error processing ALFM: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,147 - ParallelFactorCalculator - ERROR - Error processing APEF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,149 - ParallelFactorCalculator - ERROR - Error processing ARTF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,149 - ParallelFactorCalculator - ERROR - Error processing CIDF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,150 - ParallelFactorCalculator - ERROR - Error processing DCPF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,152 - ParallelFactorCalculator - ERROR - Error processing DVMF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,154 - ParallelFactorCalculator - ERROR - Error processing DVSF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,154 - ParallelFactorCalculator - ERROR - Error processing LDDF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,156 - ParallelFactorCalculator - ERROR - Error processing LFM: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,157 - ParallelFactorCalculator - ERROR - Error processing LWM: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,157 - ParallelFactorCalculator - ERROR - Error processing MIMF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,157 - ParallelFactorCalculator - ERROR - Error processing MIRF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,158 - ParallelFactorCalculator - ERROR - Error processing MTV: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,159 - ParallelFactorCalculator - ERROR - Error processing MVIF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,160 - ParallelFactorCalculator - ERROR - Error processing MVTF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,161 - ParallelFactorCalculator - ERROR - Error processing PCVM: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,162 - ParallelFactorCalculator - ERROR - Error processing TIRPF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,163 - ParallelFactorCalculator - ERROR - Error processing VACF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,163 - ParallelFactorCalculator - ERROR - Error processing VAPVF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,164 - ParallelFactorCalculator - ERROR - Error processing VRACF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,164 - ParallelFactorCalculator - ERROR - Error processing VSTF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,165 - ParallelFactorCalculator - ERROR - Error processing PDEF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,166 - ParallelFactorCalculator - ERROR - Error processing IMVF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,166 - ParallelFactorCalculator - ERROR - Error processing RLTF: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,167 - ParallelFactorCalculator - ERROR - Error processing DRAP: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,168 - ParallelFactorCalculator - ERROR - Error processing NIFD: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,169 - ParallelFactorCalculator - ERROR - Error processing CPD: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:35:00,169 - ParallelFactorCalculator - ERROR - Error processing RME: Can't pickle local object 'ParallelFactorCalculator.calculate_factors_async.<locals>.process_factor.<locals>.calculation_task'
+2024-12-17 21:59:20,603 - ParallelFactorCalculator - INFO - Optimized process count: 22
+2024-12-17 21:59:20,603 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-17 21:59:20,604 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-17 21:59:22,805 - ParallelFactorCalculator - INFO - 布林通道信號計算完成
+2024-12-17 22:28:33,898 - ParallelFactorCalculator - INFO - Optimized process count: 18
+2024-12-17 22:28:33,972 - ParallelFactorCalculator - INFO - 開始混合並行計算 31 個因子
+2024-12-17 22:34:11,697 - ParallelFactorCalculator - INFO - Optimized process count: 18
+2024-12-17 22:34:11,762 - ParallelFactorCalculator - INFO - 開始混合並行計算 31 個因子
+2024-12-17 22:34:15,988 - ParallelFactorCalculator - ERROR - I/O操作錯誤 NIFD: cannot convert the series to <class 'float'>
+2024-12-17 22:34:16,042 - ParallelFactorCalculator - ERROR - I/O操作錯誤 VRAM: Cannot convert non-finite values (NA or inf) to integer
+2024-12-17 22:35:52,627 - ParallelFactorCalculator - ERROR - I/O操作錯誤 LWM: 'MemoryCache' object has no attribute 'set'
+2024-12-17 22:37:01,816 - ParallelFactorCalculator - ERROR - I/O操作錯誤 VACF: 'MemoryCache' object has no attribute 'set'
+2024-12-17 22:42:35,546 - ParallelFactorCalculator - ERROR - I/O操作錯誤 LFM: 'MemoryCache' object has no attribute 'set'
+2024-12-17 22:50:08,176 - ParallelFactorCalculator - ERROR - I/O操作錯誤 ALFM: 'MemoryCache' object has no attribute 'set'
+2024-12-17 22:51:38,570 - ParallelFactorCalculator - ERROR - I/O操作錯誤 DVSF: 'MemoryCache' object has no attribute 'set'
+2024-12-17 22:57:29,756 - ParallelFactorCalculator - INFO - Optimized process count: 18
+2024-12-17 22:57:29,825 - ParallelFactorCalculator - INFO - 開始混合並行計算 31 個因子
+2024-12-17 22:57:34,040 - ParallelFactorCalculator - ERROR - I/O操作錯誤 NIFD: cannot convert the series to <class 'float'>
+2024-12-17 22:57:34,288 - ParallelFactorCalculator - ERROR - I/O操作錯誤 VRAM: Cannot convert non-finite values (NA or inf) to integer
+2024-12-17 23:03:28,096 - ParallelFactorCalculator - INFO - Optimized process count: 18
+2024-12-17 23:03:28,159 - ParallelFactorCalculator - INFO - 開始混合並行計算 31 個因子
+2024-12-17 23:03:32,149 - ParallelFactorCalculator - ERROR - I/O操作錯誤 NIFD: cannot convert the series to <class 'float'>
+2024-12-17 23:03:32,187 - ParallelFactorCalculator - ERROR - I/O操作錯誤 VRAM: Cannot convert non-finite values (NA or inf) to integer
+2024-12-18 00:12:56,009 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-18 00:19:28,127 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 01:40:08,169 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 01:40:08,170 - ParallelFactorCalculator - ERROR - 因子計算過程發生錯誤: __aexit__
+2024-12-24 01:46:12,808 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 01:46:12,809 - ParallelFactorCalculator - INFO - 快取未命中: ALFM
+2024-12-24 01:46:12,810 - ParallelFactorCalculator - INFO - 快取未命中: APEF
+2024-12-24 01:46:12,811 - ParallelFactorCalculator - INFO - 快取未命中: ARTF
+2024-12-24 01:46:12,811 - ParallelFactorCalculator - INFO - 快取未命中: CIDF
+2024-12-24 01:46:12,812 - ParallelFactorCalculator - INFO - 快取未命中: DCPF
+2024-12-24 01:46:12,812 - ParallelFactorCalculator - INFO - 快取未命中: DVMF
+2024-12-24 01:46:12,813 - ParallelFactorCalculator - INFO - 快取未命中: DVSF
+2024-12-24 01:46:12,813 - ParallelFactorCalculator - INFO - 快取未命中: LDDF
+2024-12-24 01:46:12,814 - ParallelFactorCalculator - INFO - 快取未命中: LFM
+2024-12-24 01:46:12,814 - ParallelFactorCalculator - INFO - 快取未命中: LWM
+2024-12-24 01:46:12,815 - ParallelFactorCalculator - INFO - 快取未命中: MIMF
+2024-12-24 01:46:12,815 - ParallelFactorCalculator - INFO - 快取未命中: MIRF
+2024-12-24 01:46:12,815 - ParallelFactorCalculator - INFO - 快取未命中: MTV
+2024-12-24 01:46:12,816 - ParallelFactorCalculator - INFO - 快取未命中: MVIF
+2024-12-24 01:46:12,816 - ParallelFactorCalculator - INFO - 快取未命中: MVTF
+2024-12-24 01:46:12,817 - ParallelFactorCalculator - INFO - 快取未命中: PCVM
+2024-12-24 01:46:12,817 - ParallelFactorCalculator - INFO - 快取未命中: TIRPF
+2024-12-24 01:46:12,817 - ParallelFactorCalculator - INFO - 快取未命中: VACF
+2024-12-24 01:46:12,817 - ParallelFactorCalculator - INFO - 快取未命中: VAPVF
+2024-12-24 01:46:12,819 - ParallelFactorCalculator - INFO - 快取未命中: PDEF
+2024-12-24 01:46:12,818 - ParallelFactorCalculator - INFO - 快取未命中: VSTF
+2024-12-24 01:46:12,818 - ParallelFactorCalculator - INFO - 快取未命中: VRACF
+2024-12-24 01:46:12,819 - ParallelFactorCalculator - INFO - 快取未命中: IMVF
+2024-12-24 01:46:12,820 - ParallelFactorCalculator - INFO - 快取未命中: RLTF
+2024-12-24 01:46:12,820 - ParallelFactorCalculator - INFO - 快取未命中: DRAP
+2024-12-24 01:46:12,821 - ParallelFactorCalculator - INFO - 快取未命中: NIFD
+2024-12-24 01:46:12,821 - ParallelFactorCalculator - INFO - 快取未命中: CPD
+2024-12-24 01:46:12,821 - ParallelFactorCalculator - INFO - 快取未命中: RME
+2024-12-24 01:46:12,822 - ParallelFactorCalculator - INFO - 快取未命中: VRAM
+2024-12-24 01:46:12,823 - ParallelFactorCalculator - INFO - 快取未命中: LFHP
+2024-12-24 01:46:12,823 - ParallelFactorCalculator - INFO - 快取未命中: AVMO
+2024-12-24 01:46:12,850 - ParallelFactorCalculator - INFO - 需要計算 31 個因子
+2024-12-24 01:46:12,853 - ParallelFactorCalculator - INFO - Optimized process count: 21
+2024-12-24 01:46:34,640 - ParallelFactorCalculator - ERROR - 因子計算錯誤 ALFM: cannot pickle '_thread.lock' object
+2024-12-24 01:46:55,874 - ParallelFactorCalculator - ERROR - 因子計算錯誤 APEF: cannot pickle '_thread.lock' object
+2024-12-24 01:47:17,410 - ParallelFactorCalculator - ERROR - 因子計算錯誤 ARTF: cannot pickle '_thread.lock' object
+2024-12-24 01:47:38,851 - ParallelFactorCalculator - ERROR - 因子計算錯誤 CIDF: cannot pickle '_thread.lock' object
+2024-12-24 01:48:00,234 - ParallelFactorCalculator - ERROR - 因子計算錯誤 DCPF: cannot pickle '_thread.lock' object
+2024-12-24 01:48:21,203 - ParallelFactorCalculator - ERROR - 因子計算錯誤 DVMF: cannot pickle '_thread.lock' object
+2024-12-24 01:48:42,854 - ParallelFactorCalculator - ERROR - 因子計算錯誤 DVSF: cannot pickle '_thread.lock' object
+2024-12-24 02:16:33,245 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 02:16:33,752 - ParallelFactorCalculator - INFO - 快取未命中: ALFM
+2024-12-24 02:16:33,753 - ParallelFactorCalculator - INFO - 快取未命中: APEF
+2024-12-24 02:16:33,754 - ParallelFactorCalculator - INFO - 快取未命中: ARTF
+2024-12-24 02:16:33,755 - ParallelFactorCalculator - INFO - 快取未命中: CIDF
+2024-12-24 02:16:33,755 - ParallelFactorCalculator - INFO - 快取未命中: DCPF
+2024-12-24 02:16:33,756 - ParallelFactorCalculator - INFO - 快取未命中: DVMF
+2024-12-24 02:16:33,756 - ParallelFactorCalculator - INFO - 快取未命中: DVSF
+2024-12-24 02:16:33,756 - ParallelFactorCalculator - INFO - 快取未命中: LDDF
+2024-12-24 02:16:33,758 - ParallelFactorCalculator - INFO - 快取未命中: LFM
+2024-12-24 02:16:33,758 - ParallelFactorCalculator - INFO - 快取未命中: LWM
+2024-12-24 02:16:33,758 - ParallelFactorCalculator - INFO - 快取未命中: MIMF
+2024-12-24 02:16:33,759 - ParallelFactorCalculator - INFO - 快取未命中: MTV
+2024-12-24 02:16:33,758 - ParallelFactorCalculator - INFO - 快取未命中: MIRF
+2024-12-24 02:16:33,760 - ParallelFactorCalculator - INFO - 快取未命中: MVIF
+2024-12-24 02:16:33,760 - ParallelFactorCalculator - INFO - 快取未命中: MVTF
+2024-12-24 02:16:33,761 - ParallelFactorCalculator - INFO - 快取未命中: PCVM
+2024-12-24 02:16:33,761 - ParallelFactorCalculator - INFO - 快取未命中: TIRPF
+2024-12-24 02:16:33,761 - ParallelFactorCalculator - INFO - 快取未命中: VACF
+2024-12-24 02:16:33,762 - ParallelFactorCalculator - INFO - 快取未命中: VAPVF
+2024-12-24 02:16:33,762 - ParallelFactorCalculator - INFO - 快取未命中: VRACF
+2024-12-24 02:16:33,762 - ParallelFactorCalculator - INFO - 快取未命中: VSTF
+2024-12-24 02:16:33,763 - ParallelFactorCalculator - INFO - 快取未命中: PDEF
+2024-12-24 02:16:33,763 - ParallelFactorCalculator - INFO - 快取未命中: IMVF
+2024-12-24 02:16:33,763 - ParallelFactorCalculator - INFO - 快取未命中: RLTF
+2024-12-24 02:16:33,764 - ParallelFactorCalculator - INFO - 快取未命中: DRAP
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: NIFD
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: CPD
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: RME
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: VRAM
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: LFHP
+2024-12-24 02:16:33,765 - ParallelFactorCalculator - INFO - 快取未命中: AVMO
+2024-12-24 02:16:33,787 - ParallelFactorCalculator - INFO - Optimized process count: 21
+2024-12-24 02:16:54,009 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:17:14,614 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:17:35,697 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:17:56,903 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:18:18,055 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:18:39,292 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:31:07,232 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 02:31:07,730 - ParallelFactorCalculator - INFO - 快取未命中: ALFM
+2024-12-24 02:31:07,732 - ParallelFactorCalculator - INFO - 快取未命中: APEF
+2024-12-24 02:31:07,732 - ParallelFactorCalculator - INFO - 快取未命中: ARTF
+2024-12-24 02:31:07,733 - ParallelFactorCalculator - INFO - 快取未命中: CIDF
+2024-12-24 02:31:07,734 - ParallelFactorCalculator - INFO - 快取未命中: DCPF
+2024-12-24 02:31:07,735 - ParallelFactorCalculator - INFO - 快取未命中: DVMF
+2024-12-24 02:31:07,735 - ParallelFactorCalculator - INFO - 快取未命中: DVSF
+2024-12-24 02:31:07,736 - ParallelFactorCalculator - INFO - 快取未命中: LDDF
+2024-12-24 02:31:07,736 - ParallelFactorCalculator - INFO - 快取未命中: LFM
+2024-12-24 02:31:07,736 - ParallelFactorCalculator - INFO - 快取未命中: LWM
+2024-12-24 02:31:07,736 - ParallelFactorCalculator - INFO - 快取未命中: MIMF
+2024-12-24 02:31:07,736 - ParallelFactorCalculator - INFO - 快取未命中: MIRF
+2024-12-24 02:31:07,737 - ParallelFactorCalculator - INFO - 快取未命中: MTV
+2024-12-24 02:31:07,737 - ParallelFactorCalculator - INFO - 快取未命中: MVIF
+2024-12-24 02:31:07,737 - ParallelFactorCalculator - INFO - 快取未命中: MVTF
+2024-12-24 02:31:07,738 - ParallelFactorCalculator - INFO - 快取未命中: PCVM
+2024-12-24 02:31:07,739 - ParallelFactorCalculator - INFO - 快取未命中: TIRPF
+2024-12-24 02:31:07,739 - ParallelFactorCalculator - INFO - 快取未命中: VACF
+2024-12-24 02:31:07,739 - ParallelFactorCalculator - INFO - 快取未命中: VAPVF
+2024-12-24 02:31:07,740 - ParallelFactorCalculator - INFO - 快取未命中: VRACF
+2024-12-24 02:31:07,741 - ParallelFactorCalculator - INFO - 快取未命中: PDEF
+2024-12-24 02:31:07,740 - ParallelFactorCalculator - INFO - 快取未命中: VSTF
+2024-12-24 02:31:07,741 - ParallelFactorCalculator - INFO - 快取未命中: IMVF
+2024-12-24 02:31:07,742 - ParallelFactorCalculator - INFO - 快取未命中: RLTF
+2024-12-24 02:31:07,742 - ParallelFactorCalculator - INFO - 快取未命中: DRAP
+2024-12-24 02:31:07,742 - ParallelFactorCalculator - INFO - 快取未命中: NIFD
+2024-12-24 02:31:07,743 - ParallelFactorCalculator - INFO - 快取未命中: CPD
+2024-12-24 02:31:07,743 - ParallelFactorCalculator - INFO - 快取未命中: RME
+2024-12-24 02:31:07,744 - ParallelFactorCalculator - INFO - 快取未命中: VRAM
+2024-12-24 02:31:07,744 - ParallelFactorCalculator - INFO - 快取未命中: LFHP
+2024-12-24 02:31:07,744 - ParallelFactorCalculator - INFO - 快取未命中: AVMO
+2024-12-24 02:31:07,768 - ParallelFactorCalculator - INFO - Optimized process count: 21
+2024-12-24 02:31:27,720 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:31:48,172 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:32:09,259 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:32:30,484 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:32:51,449 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:33:12,405 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:33:33,618 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:33:54,712 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:34:16,025 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:34:37,409 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:34:58,394 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:35:19,349 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:35:40,928 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:36:02,340 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:36:23,583 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:36:45,099 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:37:06,427 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:37:27,614 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:37:50,070 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:38:11,453 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:38:36,257 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:38:57,339 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 02:39:18,351 - ParallelFactorCalculator - ERROR - 因子計算錯誤: cannot pickle '_thread.lock' object
+2024-12-24 05:16:25,431 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 05:21:27,716 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 05:21:28,011 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 05:22:06,965 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 05:22:29,033 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 05:22:51,626 - ParallelFactorCalculator - WARNING - 因子 ARTF 計算結果為空
+2024-12-24 05:23:18,106 - ParallelFactorCalculator - WARNING - 因子 CIDF 計算結果為空
+2024-12-24 05:23:38,935 - ParallelFactorCalculator - WARNING - 因子 DCPF 計算結果為空
+2024-12-24 05:23:59,444 - ParallelFactorCalculator - WARNING - 因子 DVMF 計算結果為空
+2024-12-24 05:38:48,822 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 05:38:49,129 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 05:39:29,371 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 05:39:55,134 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 05:40:13,699 - ParallelFactorCalculator - WARNING - 因子 ARTF 計算結果為空
+2024-12-24 12:57:03,805 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 12:57:04,098 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 12:57:04,099 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 12:57:04,099 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 12:57:42,253 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 12:58:08,328 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 13:20:26,147 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 13:20:26,436 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 13:20:26,437 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 13:20:26,437 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 13:21:07,182 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 13:21:29,265 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 13:32:15,268 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 13:32:15,553 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 13:32:15,554 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 13:32:15,555 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 13:32:54,050 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 13:33:15,575 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 13:44:53,956 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 13:44:54,245 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-24 13:44:54,246 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 13:44:54,247 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 13:45:32,101 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 13:45:54,274 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 14:20:19,132 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 14:20:30,384 - ParallelFactorCalculator - INFO - 使用 15 個進程進行因子計算
+2024-12-24 14:20:30,385 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 14:20:30,386 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 14:21:13,107 - ParallelFactorCalculator - WARNING - 因子 ALFM 計算結果為空
+2024-12-24 14:21:37,943 - ParallelFactorCalculator - WARNING - 因子 APEF 計算結果為空
+2024-12-24 14:22:02,800 - ParallelFactorCalculator - WARNING - 因子 ARTF 計算結果為空
+2024-12-24 14:37:43,564 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 14:37:51,618 - ParallelFactorCalculator - INFO - 使用 18 個進程進行因子計算
+2024-12-24 14:37:51,619 - ParallelFactorCalculator - INFO - 待計算因子列表: ['ALFM', 'APEF', 'ARTF', 'CIDF', 'DCPF', 'DVMF', 'DVSF', 'LDDF', 'LFM', 'LWM', 'MIMF', 'MIRF', 'MTV', 'MVIF', 'MVTF', 'PCVM', 'TIRPF', 'VACF', 'VAPVF', 'VRACF', 'VSTF', 'PDEF', 'IMVF', 'RLTF', 'DRAP', 'NIFD', 'CPD', 'RME', 'VRAM', 'LFHP', 'AVMO']
+2024-12-24 14:37:51,620 - ParallelFactorCalculator - INFO - 共享數據狀態: dict_keys(['close', 'open', 'high', 'low', 'volume', 'market_capital'])
+2024-12-24 14:38:40,443 - ParallelFactorCalculator - ERROR - 因子計算錯誤: 'ALFM'
+2024-12-24 14:39:06,038 - ParallelFactorCalculator - ERROR - 因子計算錯誤: 'APEF'
+2024-12-24 14:39:30,349 - ParallelFactorCalculator - ERROR - 因子計算錯誤: 'ARTF'
+2024-12-24 14:53:42,096 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 14:53:50,136 - ParallelFactorCalculator - INFO - 使用 20 個進程進行因子計算
+2024-12-24 14:54:37,949 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: complete_factor() got an unexpected keyword argument 'success'
+2024-12-24 14:55:02,711 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: complete_factor() got an unexpected keyword argument 'success'
+2024-12-24 15:05:10,959 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 15:05:18,859 - ParallelFactorCalculator - INFO - 使用 20 個進程進行因子計算
+2024-12-24 15:06:06,721 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：47.86 秒
+2024-12-24 15:06:31,482 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：72.57 秒
+2024-12-24 15:06:56,184 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：97.27 秒
+2024-12-24 15:11:59,684 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 15:11:59,686 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：400.70 秒
+2024-12-24 15:12:25,105 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：426.12 秒
+2024-12-24 15:12:26,291 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：427.30 秒
+2024-12-24 15:17:57,569 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 15:18:04,712 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：765.65 秒
+2024-12-24 15:18:30,740 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：791.46 秒
+2024-12-24 15:18:34,563 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：778.17 秒
+2024-12-24 15:18:42,693 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：786.30 秒
+2024-12-24 15:19:18,756 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：822.36 秒
+2024-12-24 15:19:19,773 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：823.38 秒
+2024-12-24 15:19:48,224 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：851.83 秒
+2024-12-24 15:19:49,232 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：852.84 秒
+2024-12-24 15:24:50,243 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 15:24:50,245 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1153.85 秒
+2024-12-24 15:24:51,254 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1154.86 秒
+2024-12-24 15:24:52,266 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1155.87 秒
+2024-12-24 15:29:01,540 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1405.14 秒
+2024-12-24 15:32:53,788 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1637.39 秒
+2024-12-24 15:32:54,791 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1638.39 秒
+2024-12-24 15:32:55,801 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1639.40 秒
+2024-12-24 15:32:56,809 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1640.41 秒
+2024-12-24 15:32:57,826 - ParallelFactorCalculator - WARNING - 因子 NIFD 計算結果為空
+2024-12-24 15:32:57,827 - ParallelFactorCalculator - INFO - 因子 NIFD failed，耗時：1641.43 秒
+2024-12-24 15:32:58,839 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1642.44 秒
+2024-12-24 15:37:59,863 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 15:37:59,865 - ParallelFactorCalculator - WARNING - 因子 VRAM 計算結果為空
+2024-12-24 15:37:59,865 - ParallelFactorCalculator - INFO - 因子 VRAM failed，耗時：1943.00 秒
+2024-12-24 15:43:00,891 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 15:43:00,892 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：2244.03 秒
+2024-12-24 16:04:42,447 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-24 16:40:59,125 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-24 16:41:11,461 - ParallelFactorCalculator - INFO - 使用 20 個進程進行因子計算
+2024-12-24 16:42:21,891 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：70.43 秒
+2024-12-24 16:42:58,600 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：107.07 秒
+2024-12-24 16:44:02,141 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：170.61 秒
+2024-12-24 16:49:24,236 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 16:49:31,066 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：499.53 秒
+2024-12-24 16:49:32,852 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：501.32 秒
+2024-12-24 16:49:57,057 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：525.52 秒
+2024-12-24 16:54:58,768 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 16:55:05,848 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：834.11 秒
+2024-12-24 16:55:26,392 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：854.65 秒
+2024-12-24 16:55:32,995 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：861.26 秒
+2024-12-24 16:55:34,350 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：862.61 秒
+2024-12-24 16:55:59,656 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：887.92 秒
+2024-12-24 16:56:00,816 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：889.08 秒
+2024-12-24 16:56:26,950 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：915.21 秒
+2024-12-24 16:56:28,031 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：916.29 秒
+2024-12-24 17:01:55,779 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 17:01:55,791 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1244.05 秒
+2024-12-24 17:01:56,797 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1245.06 秒
+2024-12-24 17:01:57,801 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1246.06 秒
+2024-12-24 17:06:53,247 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1541.51 秒
+2024-12-24 17:10:39,947 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1768.21 秒
+2024-12-24 17:10:40,958 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1769.22 秒
+2024-12-24 17:10:41,962 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1770.22 秒
+2024-12-24 17:10:42,967 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1771.23 秒
+2024-12-24 17:10:43,971 - ParallelFactorCalculator - WARNING - 因子 NIFD 計算結果為空
+2024-12-24 17:10:43,974 - ParallelFactorCalculator - INFO - 因子 NIFD failed，耗時：1772.24 秒
+2024-12-24 17:10:44,991 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1773.25 秒
+2024-12-24 17:15:45,994 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 17:15:45,996 - ParallelFactorCalculator - WARNING - 因子 VRAM 計算結果為空
+2024-12-24 17:15:45,997 - ParallelFactorCalculator - INFO - 因子 VRAM failed，耗時：2074.26 秒
+2024-12-24 17:20:47,022 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-24 17:20:47,023 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：2375.28 秒
+2024-12-24 17:41:44,115 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-24 17:42:14,842 - ParallelFactorCalculator - ERROR - 布林通道信號計算錯誤: 'MemoryCache' object has no attribute 'set'
+2024-12-24 17:42:14,853 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 3675.73 秒
+處理因子數: 31
+成功完成數: 24
+成功率: 77.4%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1124.85 秒/因子
+-------------------
+2024-12-24 17:42:14,854 - ParallelFactorCalculator - WARNING - 有 7 個因子計算失敗，請檢查日誌了解詳細信息。
+2024-12-28 20:46:44,867 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 20:46:53,185 - ParallelFactorCalculator - INFO - 使用 17 個進程進行因子計算
+2024-12-28 20:47:14,092 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: cannot pickle '_thread.lock' object
+2024-12-28 20:47:34,691 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: cannot pickle '_thread.lock' object
+2024-12-28 20:47:55,042 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: cannot pickle '_thread.lock' object
+2024-12-28 21:02:24,041 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 21:02:32,125 - ParallelFactorCalculator - INFO - 使用 19 個進程進行因子計算
+2024-12-28 21:02:52,690 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: Pickling an AuthenticationString object is disallowed for security reasons
+2024-12-28 21:12:33,068 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 21:12:41,221 - ParallelFactorCalculator - INFO - 使用 19 個進程進行因子計算
+2024-12-28 21:13:01,758 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: cannot pickle '_thread.lock' object
+2024-12-28 21:13:22,398 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: cannot pickle '_thread.lock' object
+2024-12-28 21:20:55,638 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 21:21:03,711 - ParallelFactorCalculator - INFO - 使用 19 個進程進行因子計算
+2024-12-28 21:21:24,179 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: Pickling an AuthenticationString object is disallowed for security reasons
+2024-12-28 21:30:12,773 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 21:30:20,886 - ParallelFactorCalculator - INFO - 使用 19 個進程進行因子計算
+2024-12-28 21:31:08,548 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：47.66 秒
+2024-12-28 21:31:33,692 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：72.73 秒
+2024-12-28 21:31:59,135 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：98.17 秒
+2024-12-28 21:37:27,165 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-28 21:37:28,165 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：427.13 秒
+2024-12-28 21:37:53,497 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：452.39 秒
+2024-12-28 21:38:18,726 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：477.62 秒
+2024-12-28 21:43:55,842 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-28 21:44:04,240 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-28 21:44:53,779 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：49.54 秒
+2024-12-28 21:45:19,033 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：74.70 秒
+2024-12-28 21:45:44,303 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：99.97 秒
+2024-12-28 22:01:01,557 - ParallelFactorCalculator - INFO - 因子 CIDF completed，耗時：1017.22 秒
+2024-12-28 22:01:02,611 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：1018.28 秒
+2024-12-28 22:01:03,619 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：1019.29 秒
+2024-12-28 22:01:04,624 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：1020.22 秒
+2024-12-28 22:02:23,174 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1098.70 秒
+2024-12-28 22:02:24,183 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1099.71 秒
+2024-12-28 22:02:25,186 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1100.71 秒
+2024-12-28 22:02:26,196 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1101.72 秒
+2024-12-28 22:02:27,212 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1102.73 秒
+2024-12-28 22:02:28,224 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1103.75 秒
+2024-12-28 22:02:29,239 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1104.76 秒
+2024-12-28 22:02:30,245 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1105.77 秒
+2024-12-28 22:02:31,250 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1106.77 秒
+2024-12-28 22:09:54,310 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1531.76 秒
+2024-12-28 22:09:55,321 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1532.77 秒
+2024-12-28 22:09:56,337 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1533.79 秒
+2024-12-28 22:09:57,345 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1534.80 秒
+2024-12-28 22:09:58,359 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1535.81 秒
+2024-12-28 22:10:56,351 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1593.80 秒
+2024-12-28 22:10:57,362 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1594.82 秒
+2024-12-28 22:10:58,369 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1595.82 秒
+2024-12-28 22:10:59,371 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1596.82 秒
+2024-12-28 22:11:00,387 - ParallelFactorCalculator - INFO - 因子 NIFD completed，耗時：1597.84 秒
+2024-12-28 22:11:01,391 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1598.84 秒
+2024-12-28 22:11:02,400 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1599.85 秒
+2024-12-28 22:11:03,405 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1600.86 秒
+2024-12-28 22:31:04,421 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-28 22:31:04,422 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：2801.87 秒
+2024-12-28 22:42:29,010 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-30 19:28:45,344 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-30 19:30:41,580 - ParallelFactorCalculator - INFO - 開始計算 31 個因子
+2024-12-30 19:30:54,026 - ParallelFactorCalculator - INFO - 使用 17 個進程進行因子計算
+2024-12-30 19:31:51,040 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：57.01 秒
+2024-12-30 19:32:20,198 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：86.09 秒
+2024-12-30 19:33:14,514 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：140.41 秒
+2024-12-30 19:53:52,450 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-30 19:53:52,470 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：1378.36 秒
+2024-12-30 19:53:53,475 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：1379.37 秒
+2024-12-30 19:53:54,484 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：1380.38 秒
+2024-12-30 20:03:30,783 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1956.67 秒
+2024-12-30 20:03:31,793 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1957.68 秒
+2024-12-30 20:03:32,810 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1958.70 秒
+2024-12-30 20:03:33,819 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1959.71 秒
+2024-12-30 20:03:34,830 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1960.72 秒
+2024-12-30 20:03:35,833 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1961.72 秒
+2024-12-30 20:03:36,836 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1962.73 秒
+2024-12-30 20:03:37,840 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1963.73 秒
+2024-12-30 20:03:38,844 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1964.73 秒
+2024-12-30 20:14:15,201 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：2600.94 秒
+2024-12-30 20:14:16,210 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：2601.95 秒
+2024-12-30 20:14:17,226 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：2602.96 秒
+2024-12-30 20:14:18,235 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：2603.97 秒
+2024-12-30 20:14:19,247 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：2604.98 秒
+2024-12-30 20:16:54,860 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：2760.60 秒
+2024-12-30 20:16:55,864 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：2761.60 秒
+2024-12-30 20:16:56,873 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：2762.61 秒
+2024-12-30 20:16:57,890 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：2763.63 秒
+2024-12-30 20:16:58,905 - ParallelFactorCalculator - INFO - 因子 NIFD completed，耗時：2764.64 秒
+2024-12-30 20:16:59,922 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：2765.66 秒
+2024-12-30 20:17:00,936 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：2766.67 秒
+2024-12-30 20:17:01,954 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：2767.69 秒
+2024-12-30 20:37:02,972 - ParallelFactorCalculator - ERROR - 處理因子結果時發生錯誤: 
+2024-12-30 20:37:02,974 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：3968.71 秒
+2024-12-30 21:01:45,931 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-30 21:01:56,695 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 5475.12 秒
+處理因子數: 31
+成功完成數: 29
+成功率: 93.5%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 2109.13 秒/因子
+-------------------
+2024-12-30 21:01:56,697 - ParallelFactorCalculator - WARNING - 有 2 個因子計算失敗，請檢查日誌了解詳細信息。
+2024-12-30 21:29:33,263 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-30 21:47:58,882 - ParallelFactorCalculator - INFO - 開始計算 29 個因子
+2024-12-30 21:48:06,762 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2024-12-30 21:48:56,068 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：49.30 秒
+2024-12-30 21:49:20,890 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：74.06 秒
+2024-12-30 21:49:46,070 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：99.24 秒
+2024-12-30 21:50:11,411 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：124.58 秒
+2024-12-30 21:50:35,802 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：148.97 秒
+2024-12-30 21:51:00,316 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：173.49 秒
+2024-12-30 22:05:24,099 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1037.27 秒
+2024-12-30 22:05:25,121 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1038.29 秒
+2024-12-30 22:05:26,137 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1039.31 秒
+2024-12-30 22:05:27,139 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1040.31 秒
+2024-12-30 22:05:28,144 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1041.31 秒
+2024-12-30 22:05:29,149 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1042.32 秒
+2024-12-30 22:05:30,153 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1043.32 秒
+2024-12-30 22:05:31,168 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1044.34 秒
+2024-12-30 22:05:32,174 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1045.34 秒
+2024-12-30 22:12:42,914 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1476.08 秒
+2024-12-30 22:12:43,918 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1477.09 秒
+2024-12-30 22:12:44,923 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1478.09 秒
+2024-12-30 22:12:45,937 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1479.11 秒
+2024-12-30 22:12:46,951 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1480.12 秒
+2024-12-30 22:13:50,491 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1543.66 秒
+2024-12-30 22:13:51,502 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1544.67 秒
+2024-12-30 22:13:52,507 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1545.68 秒
+2024-12-30 22:13:53,522 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1546.69 秒
+2024-12-30 22:13:54,536 - ParallelFactorCalculator - INFO - 因子 NIFD completed，耗時：1547.71 秒
+2024-12-30 22:13:55,550 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1548.72 秒
+2024-12-30 22:13:56,565 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1549.73 秒
+2024-12-30 22:13:57,584 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1550.75 秒
+2024-12-30 22:13:58,606 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：1551.78 秒
+2024-12-30 22:14:00,152 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2024-12-30 22:14:04,602 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 1565.72 秒
+處理因子數: 29
+成功完成數: 29
+成功率: 100.0%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1081.43 秒/因子
+-------------------
+2025-01-01 21:28:34,410 - ParallelFactorCalculator - INFO - 開始計算 29 個因子
+2025-01-01 21:28:42,198 - ParallelFactorCalculator - INFO - 使用 19 個進程進行因子計算
+2025-01-01 21:29:27,754 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：45.55 秒
+2025-01-01 21:29:51,426 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：69.19 秒
+2025-01-01 21:30:38,797 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：116.56 秒
+2025-01-01 21:31:02,404 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：140.03 秒
+2025-01-01 21:31:20,442 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：157.85 秒
+2025-01-01 21:31:49,485 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：186.89 秒
+2025-01-01 21:45:44,103 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1021.50 秒
+2025-01-01 21:45:45,129 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1022.53 秒
+2025-01-01 21:45:46,138 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1023.54 秒
+2025-01-01 21:45:47,150 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1024.56 秒
+2025-01-01 21:45:48,167 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1009.87 秒
+2025-01-01 21:45:49,181 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1010.69 秒
+2025-01-01 21:45:50,196 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1011.68 秒
+2025-01-01 21:45:51,211 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1012.70 秒
+2025-01-01 21:45:52,228 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1013.71 秒
+2025-01-01 21:52:39,900 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1421.39 秒
+2025-01-01 21:52:40,907 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1422.15 秒
+2025-01-01 21:52:41,921 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1423.16 秒
+2025-01-01 21:52:42,937 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1424.18 秒
+2025-01-01 21:52:43,951 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1425.19 秒
+2025-01-01 21:53:54,174 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1495.42 秒
+2025-01-01 21:53:55,177 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1496.42 秒
+2025-01-01 21:53:56,183 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1497.43 秒
+2025-01-01 21:53:57,199 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1498.44 秒
+2025-01-01 21:53:58,207 - ParallelFactorCalculator - INFO - 因子 NIFD completed，耗時：1499.45 秒
+2025-01-01 21:53:59,227 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1500.47 秒
+2025-01-01 21:54:00,248 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1501.49 秒
+2025-01-01 21:54:01,269 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1502.51 秒
+2025-01-01 21:54:02,283 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：1503.53 秒
+2025-01-01 21:54:03,795 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2025-01-01 21:54:08,113 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 1533.70 秒
+處理因子數: 29
+成功完成數: 29
+成功率: 100.0%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1050.97 秒/因子
+-------------------
+2025-01-02 12:18:55,788 - ParallelFactorCalculator - INFO - 開始計算布林通道信號
+2025-01-02 12:22:34,142 - ParallelFactorCalculator - INFO - 使用 3 個進程進行因子計算
+2025-01-02 12:23:21,676 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：47.53 秒
+2025-01-02 12:23:46,652 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：72.50 秒
+2025-01-02 12:24:09,300 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：95.15 秒
+2025-01-02 12:24:10,471 - ParallelFactorCalculator - WARNING - Strategy BOLLINGER_BREAKTHROUGH not found
+2025-01-02 12:24:10,471 - ParallelFactorCalculator - WARNING - Strategy BOLLINGER_REVERSAL not found
+2025-01-02 12:39:53,383 - ParallelFactorCalculator - INFO - 使用 3 個進程進行因子計算
+2025-01-02 12:40:39,772 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：46.39 秒
+2025-01-02 12:41:04,526 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：71.13 秒
+2025-01-02 12:41:26,979 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：93.58 秒
+2025-01-02 12:54:10,788 - ParallelFactorCalculator - INFO - 使用 3 個進程進行因子計算
+2025-01-02 12:54:57,289 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：46.50 秒
+2025-01-02 12:55:21,843 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：71.05 秒
+2025-01-02 12:55:44,052 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：93.26 秒
+2025-01-02 12:58:50,951 - ParallelFactorCalculator - INFO - 使用 3 個進程進行因子計算
+2025-01-02 12:59:38,916 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：47.96 秒
+2025-01-02 13:00:04,057 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：73.10 秒
+2025-01-02 13:00:26,355 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：95.39 秒
+2025-01-02 14:51:42,319 - ParallelFactorCalculator - INFO - 開始計算 29 個因子
+2025-01-02 14:51:50,354 - ParallelFactorCalculator - INFO - 使用 20 個進程進行因子計算
+2025-01-02 14:52:36,688 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：46.33 秒
+2025-01-02 14:53:01,393 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：70.95 秒
+2025-01-02 14:53:25,769 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：95.33 秒
+2025-01-02 14:54:09,015 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：138.58 秒
+2025-01-02 14:54:15,141 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：144.70 秒
+2025-01-02 14:54:39,583 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：169.14 秒
+2025-01-02 15:09:41,077 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1070.63 秒
+2025-01-02 15:09:42,124 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1071.68 秒
+2025-01-02 15:09:43,127 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1072.69 秒
+2025-01-02 15:09:44,142 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1073.70 秒
+2025-01-02 15:09:45,157 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1074.72 秒
+2025-01-02 15:09:46,169 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1075.73 秒
+2025-01-02 15:09:47,170 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1076.73 秒
+2025-01-02 15:09:48,171 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1077.73 秒
+2025-01-02 15:09:49,183 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1078.74 秒
+2025-01-02 15:17:24,312 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1533.87 秒
+2025-01-02 15:17:25,328 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1534.89 秒
+2025-01-02 15:17:26,331 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1535.89 秒
+2025-01-02 15:17:27,344 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1536.90 秒
+2025-01-02 15:17:28,356 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1537.92 秒
+2025-01-02 15:18:22,002 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1591.56 秒
+2025-01-02 15:18:23,006 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1592.57 秒
+2025-01-02 15:18:24,019 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1593.58 秒
+2025-01-02 15:18:25,030 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1594.59 秒
+2025-01-02 15:18:26,042 - ParallelFactorCalculator - INFO - 因子 NIFD completed，耗時：1595.60 秒
+2025-01-02 15:18:27,050 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1596.61 秒
+2025-01-02 15:18:28,073 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1597.63 秒
+2025-01-02 15:18:29,088 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1598.65 秒
+2025-01-02 15:18:30,114 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：1599.67 秒
+2025-01-02 15:18:39,896 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 1617.58 秒
+處理因子數: 29
+成功完成數: 58
+成功率: 200.0%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1116.46 秒/因子
+-------------------
+2025-01-02 16:10:34,288 - ParallelFactorCalculator - INFO - 開始計算 28 個因子
+2025-01-02 16:10:42,119 - ParallelFactorCalculator - INFO - 使用 21 個進程進行因子計算
+2025-01-02 16:11:30,201 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：48.08 秒
+2025-01-02 16:11:54,711 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：72.54 秒
+2025-01-02 16:12:19,361 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：97.19 秒
+2025-01-02 16:12:44,723 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：122.55 秒
+2025-01-02 16:13:08,641 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：146.47 秒
+2025-01-02 16:13:33,266 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：171.09 秒
+2025-01-02 16:28:36,589 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1074.42 秒
+2025-01-02 16:28:37,615 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1075.44 秒
+2025-01-02 16:28:38,616 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1076.44 秒
+2025-01-02 16:28:39,631 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1077.46 秒
+2025-01-02 16:28:40,643 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1078.47 秒
+2025-01-02 16:28:41,656 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1079.48 秒
+2025-01-02 16:28:42,671 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1080.50 秒
+2025-01-02 16:28:43,682 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1081.51 秒
+2025-01-02 16:28:44,698 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1082.53 秒
+2025-01-02 16:36:30,135 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1547.96 秒
+2025-01-02 16:36:31,149 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1548.98 秒
+2025-01-02 16:36:32,165 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1549.99 秒
+2025-01-02 16:36:33,168 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1551.00 秒
+2025-01-02 16:36:34,173 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1552.00 秒
+2025-01-02 16:37:11,009 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1588.84 秒
+2025-01-02 16:37:12,016 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1589.84 秒
+2025-01-02 16:37:13,033 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1590.69 秒
+2025-01-02 16:37:14,049 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1591.29 秒
+2025-01-02 16:37:15,064 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1592.30 秒
+2025-01-02 16:37:16,075 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1593.31 秒
+2025-01-02 16:37:17,087 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1594.33 秒
+2025-01-02 16:37:18,102 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：1595.34 秒
+2025-01-02 16:37:39,953 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 1625.67 秒
+處理因子數: 28
+成功完成數: 28
+成功率: 100.0%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1101.79 秒/因子
+-------------------
+2025-01-02 17:10:28,854 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:10:28,855 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:10:28,856 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:10:28,856 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:10:28,857 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:10:28,857 - ParallelFactorCalculator - ERROR - 參數配置錯誤: 'timeperiod'
+2025-01-02 17:24:05,738 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 17:24:06,919 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 17:24:08,425 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 17:24:09,564 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 17:24:10,724 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 17:24:12,242 - ParallelFactorCalculator - ERROR - 處理策略 VOLUME_MA_BREAKTHROUGH 的參數時發生錯誤: 'DataFrame' object has no attribute 'index_str_to_date'
+2025-01-02 18:46:26,626 - ParallelFactorCalculator - ERROR - 生成策略識別符時缺少必要參數: 'volume_ma_period'
+2025-01-02 18:46:30,432 - ParallelFactorCalculator - ERROR - 生成策略識別符時缺少必要參數: 'volume_ma_period'
+2025-01-02 18:46:33,873 - ParallelFactorCalculator - ERROR - 生成策略識別符時缺少必要參數: 'volume_ma_period'
+2025-01-02 18:57:36,564 - ParallelFactorCalculator - INFO - 開始計算 28 個因子
+2025-01-02 18:57:44,779 - ParallelFactorCalculator - INFO - 使用 18 個進程進行因子計算
+2025-01-02 18:58:34,458 - ParallelFactorCalculator - INFO - 因子 ALFM completed，耗時：49.68 秒
+2025-01-02 18:58:58,109 - ParallelFactorCalculator - INFO - 因子 APEF completed，耗時：73.29 秒
+2025-01-02 18:59:22,214 - ParallelFactorCalculator - INFO - 因子 ARTF completed，耗時：97.39 秒
+2025-01-02 18:59:47,535 - ParallelFactorCalculator - INFO - 因子 DCPF completed，耗時：122.71 秒
+2025-01-02 19:00:13,167 - ParallelFactorCalculator - INFO - 因子 DVMF completed，耗時：148.34 秒
+2025-01-02 19:00:36,716 - ParallelFactorCalculator - INFO - 因子 DVSF completed，耗時：171.89 秒
+2025-01-02 19:15:08,826 - ParallelFactorCalculator - INFO - 因子 LDDF completed，耗時：1044.00 秒
+2025-01-02 19:15:09,873 - ParallelFactorCalculator - INFO - 因子 LFM completed，耗時：1045.05 秒
+2025-01-02 19:15:10,884 - ParallelFactorCalculator - INFO - 因子 LWM completed，耗時：1046.06 秒
+2025-01-02 19:15:11,898 - ParallelFactorCalculator - INFO - 因子 MIMF completed，耗時：1047.08 秒
+2025-01-02 19:15:12,909 - ParallelFactorCalculator - INFO - 因子 MIRF completed，耗時：1048.09 秒
+2025-01-02 19:15:13,926 - ParallelFactorCalculator - INFO - 因子 MTV completed，耗時：1049.10 秒
+2025-01-02 19:15:14,943 - ParallelFactorCalculator - INFO - 因子 MVIF completed，耗時：1050.02 秒
+2025-01-02 19:15:15,953 - ParallelFactorCalculator - INFO - 因子 MVTF completed，耗時：1051.03 秒
+2025-01-02 19:15:16,966 - ParallelFactorCalculator - INFO - 因子 PCVM completed，耗時：1052.04 秒
+2025-01-02 19:22:15,867 - ParallelFactorCalculator - INFO - 因子 TIRPF completed，耗時：1470.94 秒
+2025-01-02 19:22:16,883 - ParallelFactorCalculator - INFO - 因子 VACF completed，耗時：1471.96 秒
+2025-01-02 19:22:17,886 - ParallelFactorCalculator - INFO - 因子 VAPVF completed，耗時：1472.96 秒
+2025-01-02 19:22:18,891 - ParallelFactorCalculator - INFO - 因子 VRACF completed，耗時：1473.97 秒
+2025-01-02 19:22:19,896 - ParallelFactorCalculator - INFO - 因子 VSTF completed，耗時：1474.97 秒
+2025-01-02 19:23:35,655 - ParallelFactorCalculator - INFO - 因子 PDEF completed，耗時：1550.73 秒
+2025-01-02 19:23:36,659 - ParallelFactorCalculator - INFO - 因子 IMVF completed，耗時：1551.73 秒
+2025-01-02 19:23:37,675 - ParallelFactorCalculator - INFO - 因子 RLTF completed，耗時：1552.75 秒
+2025-01-02 19:23:38,688 - ParallelFactorCalculator - INFO - 因子 DRAP completed，耗時：1553.76 秒
+2025-01-02 19:23:39,695 - ParallelFactorCalculator - INFO - 因子 CPD completed，耗時：1554.77 秒
+2025-01-02 19:23:40,714 - ParallelFactorCalculator - INFO - 因子 RME completed，耗時：1555.79 秒
+2025-01-02 19:23:41,734 - ParallelFactorCalculator - INFO - 因子 VRAM completed，耗時：1556.81 秒
+2025-01-02 19:23:42,753 - ParallelFactorCalculator - INFO - 因子 AVMO completed，耗時：1557.83 秒
+2025-01-02 19:25:28,333 - ParallelFactorCalculator - INFO - 
+因子計算統計報告:
+-------------------
+總計算時間: 1671.77 秒
+處理因子數: 28
+成功完成數: 476
+成功率: 1700.0%
+快取命中數: 0
+快取命中率: 0.0%
+平均計算時間: 1067.67 秒/因子
+-------------------
